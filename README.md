@@ -7,7 +7,8 @@ To demonstrate git version control
 
 * One
 * Two
-*_three_
+
+_three_
 
 
 ## further reading
